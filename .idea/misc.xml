@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ArogyaDhansampda/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/ArogyaDhansampda/app/src/main/res/layout/activity_splashscreenok.xml" value="0.2" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/drawable/backgroundcrop.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/drawable/button.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/drawable/button_how.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_adhomukha.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_back.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_baddha.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_bicepse.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_boxing.xml" value="0.175" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_boxing2.xml" value="0.175" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_chest.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_gym.xml" value="0.264" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_gym2.xml" value="0.264" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_gym3.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_gym4.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_karate.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_karate2.xml" value="0.2" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_kumbhakasana.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_legs.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_nutrition.xml" value="0.2" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_nutrition2.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_paschimottanasana.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_row.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_savasana.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_setubandha.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_shoulder.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_splashscreenok.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_tadasana.xml" value="0.264" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_tricepse.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_trikonasana.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_urdhvamukha.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_utkatasana.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_uttana.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_virbhadrasana.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_vriksasana.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_warmup.xml" value="0.2" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_warmupactivity.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_yoga.xml" value="0.264" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_yoga2.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/activity_yogaactivity3.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/back.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/bisepse.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/chest.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/diet.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/legs.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/row.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/shoulder.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/tricepse.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/layout/warmup.xml" value="0.2" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.176" />
+        <entry key="..\:/Users/akhil/Android Project/ArogyaDhansampda/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2611111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

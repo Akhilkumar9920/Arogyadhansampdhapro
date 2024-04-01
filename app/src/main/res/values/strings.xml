@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">ArogyaDhansampda</string>
+
+    <string name="pose1">
+		step1:-Stand with your feet together or hip-width apart. Ground down through the four corners of your feet.
+		       Roll your shoulders away from your ears, draw your shoulder blades down your back, and lift the crown of your head.\n\n
+
+
+		step2:-Engage your thighs, draw your belly button in, and lengthen up through the spine. Turn your palms facing the front of the room.
+		       Relax your jaw and unforrow your brow. Breathe easy.\n\n</string>
+
+
+    <string name="pose2">  step1:-Start in Mountain Pose. As you inhale, raise your arms, spread your fingers, and reach up through your fingertips. As you exhale,
+                                   sit back and down as if sitting into a chair.\n\n
+
+
+					        step2:-Shift your weight toward the heels and lengthen up through the spine. As you inhale, lift and lengthen through your arms.
+		                           As you exhale, sit deeper into the pose.\n\n</string>
+
+
+    <string name="pose3">  step1:-Place your hands on the back of a chair with palms shoulder-distance apart. Step your feet back until they align under hips, creating a right
+                                   angle with your body, spine parallel with the floor.\n\n
+
+
+		                    step2:-Ground through your feet and lift through thighs. Reach hips away from hands to lengthen the sides of your torso. Firm your outer arms in and
+					              lengthen through the crown of your head.\n\n</string>
+
+
+    <string name="pose4">  step1:-From all fours, walk your hands 6 inches in front of you. Tuck your toes and lift your hips up and back to lengthen your spine. If your hamstrings
+                               are tight, keep your knees bent in order to bring your weight backinto the legs.\n\n
+					    step2:-Spread your fingers wide, press into your hands, and rotate your arms so that your biceps are facing toward one another. Press your thighs back
+						       toward the wall behind you.\n\n</string>
+
+
+    <string name="pose5">  step1:-Stand with feet wide, 3–4 feet apart. Shift your right heel out so your toes are pointing slightly inward. Turn your left foot out 90 degrees.
+                               Line up your left heel with the arch of your right foot.\n\n
+					    step2:-Bend your left knee to a 90-degree angle, keeping the knee in line with the second toe to protect the knee joint. Stretch through your straight
+					           back leg and ground down into the back foot.\n\n
+						step3:-On an inhale, bring arms to a T at shoulder height. Draw your shoulder blades down the back. Spread your fingers and keep palms facedown. Gaze
+						       over the front fingers. As you exhale, sink deeper into the stretch.\n\n</string>
+
+
+    <string name="pose6">  step1:-Stand with feet wide, 3–4 feet apart. Shift your right heel out so your toes are pointing slightly inward. Turn your left foot out 90 degrees.
+                               Line up your left heel with the arch of your right foot.\n\n
+					    step2:-Keeping both legs straight, ground through your feet. Lift arms into a T at shoulder height. Reach forward with your front arm. When you can’t
+						       reach anymore, hinge at the front hip.\n\n
+						step3:-Bring your front arm down to your shin, a foam block, or the ground. Lift your back arm up toward the sky and spread your fingers. Take your gaze down
+  						       to the floor or up toward your lifted hand.\n\n</string>
+
+    <string name="pose7">  step1:-Start in Mountain Pose. Find a fixed point in front of you and stare at it to help you balance.\n\n
+					    step2:-As you inhale, shift the weight into your left foot and lift your right foot an inch off the floor. Using your right hand, bring the foot to your
+					           shin or inner thigh. Avoid placing your foot directly on the knee.\n\n
+                        step3:-As you exhale, ground through the standing leg and lengthen through the crown of your head. Bring your palms to touch in front of your sternum into prayer
+       						   hands.\n\n</string>
+
+
+    <string name="pose8">  step1:-Lie faceup with knees bent, feet flat on the floor, and arms at your sides with palms facedown. Keep your feet parallel and hip-width apart,
+                               heels stacked under knees.\n\n
+					    step2:-On an inhale, activate through the legs and the glutes. Press the floor away with your feet and lift the hips off the floor toward the sky.\n\n
+
+						step3:-If your shoulders are tight and you want more leverage, try holding the sides of your yoga mat and lifting your hips. You may also wish to interlace
+       						   your fingers underneath your “bridge” and shimmy your shoulders under the chest.\n\n
+
+						step4:-When you’re ready to come down, lift your heels up and slowly lower your hips back to the ground, one vertebra at a time.\n\n</string>
+
+
+    <string name="pose9">  step1:-Sitting on the floor, bend knees and open them out to the side like a book. Join the soles of your feet together while sitting upright.\n\n
+					    step2:-Place fingertips on the floor directly behind you and lengthen up through the spine. You can also hold onto your ankles and hinge forward at
+        					   the hips.\n\n</string>
+
+
+    <string name="pose10"> step1:-Sit and straighten your legs out in front of you, grounding your thighs into the floor.\n\n
+					    step2:-Hinge at the hips to elongate your torso over your thighs. Grab hold of the outer edges of your feet.\n\n</string>
+
+
+    <string name="pose11"> step1:-Lie faceup, bringing your legs to the outer edges of your mat, like a starfish.\n\n
+					    step2:-Splay your feet out to the sides. Place arms along sides, palms facing up. Close your eyes and relax.\n\n</string>
+
+
+    <string name="pose12"> step1:-Start in Downward-Facing Dog. Shift forward so your shoulders are stacked over your wrists. Draw your navel in toward your spine and keep your
+                               hips from dropping.\n\n
+					    step2:-Reach heels back as you lengthen the crown of your head forward. Ground down into hands, pushing the floor away beneath you. Lengthen
+						       through the arms and broaden your chest.\n\n</string>
+
+
+    <string name="pose13"> step1:-Lie facedown on the floor. Bend elbows and place hands on the mat in line with lower ribs. Hug your elbows in line with your torso. Tuck your
+                               toes and take an inhale.\n\n
+					    step2:-As you exhale, push the floor away like a push-up. Straighten your arms and broaden across the chest, hovering your hips a few inches above the floor at
+						       the same time.\n\n
+	</string>
+
+
+    <string-array name="title_story">
+        <item>for thin body</item>
+        <item>for fat body</item>
+        <item>for avarege body</item>
+        <item>for old people</item>
+        <item>for child(8to15)</item>
+        <item>to eat in morning</item>
+        <item>water cossumption</item>
+
+
+    </string-array>
+    <string-array name="details_story">
+        <item>for thin body:- sfnshjfnknfdklsafjbgfndjfkngerkfdnkvfjeponvhasofinfhdsla</item>
+        <item>for fat body:- jo kanr ahai karo mera man ko jskfjsomf jftusnfdshmldjs'pfo</item>
+        <item>for avarege body:- fkjaf;hspfimds,ijsr08u[m,[fpkm,-fiofjmue</item>
+        <item>nsdklopkllmdsk[f0im[plf[pis-0dfk[k</item>
+        <item>.fdki9kmfdkpdkfieof-</item>
+        <item>f,mpdojj0e9uf0j</item>
+        <item>ldfjpwuf08u8f0uw-0</item>
+
+
+    </string-array>
+
+
+    <string-array name="ArogyaDhansampda">
+        <item>Nutrition Guide</item>
+        <item>healthy food to eat</item>
+        <item>beginner to advanced</item>
+    </string-array>
+</resources>

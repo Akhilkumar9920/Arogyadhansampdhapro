@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.arogyadhansampda">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ArogyaDhansampda">
+        <activity
+            android:name=".dietActivity"
+            android:exported="false" />
+        <activity
+            android:name=".legsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".backActivity"
+            android:exported="false" />
+        <activity
+            android:name=".chestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".shoulderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".tricepseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bicepseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".warmupactivity"
+            android:exported="false" />
+        <activity
+            android:name=".gymActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".gymActivity"
+            android:exported="false" />
+        <activity
+            android:name=".yogaactivity3"
+            android:exported="false" />
+        <activity
+            android:name=".boxingActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".karateActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".yogaActivity2"
+            android:exported="false" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".Splashscreenok"
+            android:exported="true"
+            tools:ignore="MissingClass">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
